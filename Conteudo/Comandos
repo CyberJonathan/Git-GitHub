@@ -1,4 +1,4 @@
-COMANDOS PARA O GIT CMD.
+COMANDOS PARA O GIT CMD. // Windows
 
     winget install --id Git.Git -e --source winget **Instala o Git no seu pc, via CMD.
 
