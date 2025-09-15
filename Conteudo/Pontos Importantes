@@ -1,0 +1,21 @@
+PONTOS IMPORTANTES DO GIT E GITHUB.
+
+   1- O Git e um software(Programa), enquanto o Github, é um website com serviços.
+
+   2- O Git é um Version Control System, serve como um tipo de save/load de jogos, 
+      mais aplicado a projetos, basicamente podemos controlar as versões lançadas,e 
+      locais do nosso projeto, gerenciando melhor, e evitando problemas tecnicos, e
+      de organização.
+
+   3- Git "Repo"(Repositorio) e o nome dado pra um arquivo que armazena partes de um
+      software, o git armazena, e gerencia esse arquivo, ô "rastreando".
+
+   4- Ao usar o git init é criado um repositorio, junto com ele e criado um arquivo
+      oculto( .git ), que serve pra rastrear a pasta. 
+
+   5- Commit é como um save game/load game, que você pode salvar, e entrar em 
+      versões antigas do seu projeto/software, controlando suas versões.
+
+
+
+

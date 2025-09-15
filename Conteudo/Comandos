@@ -1,0 +1,25 @@
+COMANDOS PARA O GIT CMD.
+
+    winget install --id Git.Git -e --source winget **Instala o Git no seu pc, via CMD.
+
+    git --version ** Verifica a versão do git instalada no seu pc.
+
+    git status ** Verifica o status do seu repositorio/pasta/arquivo, monstrando o estado da operação.
+
+    git init  ** Só precisa ser feito uma vez, para a criação do arquivo de rastreio.
+
+    ls -Force  ** É usado para ver os arquivos do repositorio, incluindo os ocultos(.git), ** Só funciona do PowerShell.( Substituto do ls -la).
+
+    cd .git  ** entra dentro do arquivo .git .(É possivel entrar em outros arquivos tambem).
+
+    New-Item  ** Esse comando serve para a criação de arquivos, qualquer tipo desde .txt, a .py .( Ele é substituto do touch, pro PowerShell).
+
+    *git add  ** seleciona um arquivo para sofrer um commit, ele entra na area de preparação(Staging Area).
+
+    *git commit ** Ele retira o arquivo da staging area é os coloca no Repo.(Masainda não enviou ele para o GitHub).
+
+    *git commit -m " " ** Essa é a versão principal do comando commit, que necessita de um texto para o envio do commit.(Caso não seja colocado um texto, o command line vai abrir(o cammand line depende do sistema operacional) é precisara colocar o texto diretamente no command line/ou no VS Code).
+
+    *git log ** mostra as informações do arquivo de configuração do git. Ele mostra informações do usuario(nome no GitHub, email), alem de mostrar o codigo do commitque serve pra identificalo, alem da data do proprio(Quando ocorreu).
+
+    *git log --oneline ** Mostra as informações do arquivo de configuração, mas de forma resumida. somente em uma linha.
